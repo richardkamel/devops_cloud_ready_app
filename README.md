@@ -1,0 +1,1 @@
+# devops_cloud_ready_app
